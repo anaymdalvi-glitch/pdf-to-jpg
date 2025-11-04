@@ -1,0 +1,5 @@
+{
+  "name": "PDF Compressor Pro",
+  "description": "An intelligent PDF compressor that reduces file size by converting pages to images or by using AI to summarize the content into a new, smaller PDF.",
+  "requestFramePermissions": []
+}
